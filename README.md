@@ -84,13 +84,13 @@ Surface plane
   <img src="readme_pictures/Group2.png" width="375px" alt="breakdown van de hele profielpagine">
 
   ### dynamisch deel: 
-  <img src="readme_pictures/Group3.jpg" width="375px" alt="breakdown van een dynamisch deel, navbar homepagina">
+  <img src="readme_pictures/Group3.png" width="375px" alt="breakdown van een dynamisch deel, navbar homepagina">
 
   ### dynamisch deel: 
-  <img src="readme_pictures/Group4.jpg" width="375px" alt="breakdown van nog een dynamisch deel, video">
+  <img src="readme_pictures/Group4.png" width="375px" alt="breakdown van nog een dynamisch deel, video">
 
   ### dynamisch deel: 
-  <img src="readme_pictures/Group5.jpg" width="375px" alt="breakdown van nog een dynamisch deel, geschiedenis horizontale scroll">
+  <img src="readme_pictures/Group5.png" width="375px" alt="breakdown van nog een dynamisch deel, geschiedenis horizontale scroll">
 //Werkt nog niet??
 </details>
 

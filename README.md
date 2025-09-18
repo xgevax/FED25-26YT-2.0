@@ -42,17 +42,16 @@ Surface plane
 
 | GIF | Beschrijving |
 |-----|--------------|
-| <img src="homepage_scroll_YT.gif" width="200px"> | Homepagina scroll |
-| <img src="explore_hscroll_YT.gif" width="200px"> | Explore – horizontaal scrollen |
-| <img src="filter_scroll_YT.gif" width="200px">   | Filter scrollen |
+| <img src="readme_pictures/homepage_scroll_YT.gif" width="200px"> | Homepagina scroll |
+| <img src="readme_pictures/explore_hscroll_YT.gif" width="200px"> | Explore – horizontaal scrollen |
+| <img src="readme_pictures/filter_scroll_YT.gif" width="200px">   | Filter scrollen |
 
 ### Profielpagina
 
 | GIF | Beschrijving |
 |-----|--------------|
-| <img src="profilepage_hscroll_playlist_history_YT.gif" width="200px"> | Horizontale scroll van playlists en geschiedenis |
-| <img src="makeplaylist_YT.gif" width="200px">    | Playlist aanmaken |
-
+| <img src="readme_pictures/profilepage_hscroll_playlist_history_YT.gif" width="200px"> | Horizontale scroll van playlists en geschiedenis |
+| <img src="readme_pictures/makeplaylist_YT.gif" width="200px">    | Playlist aanmaken |
 
 </details>
 

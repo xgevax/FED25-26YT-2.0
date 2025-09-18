@@ -1,11 +1,11 @@
+
     body {
       background-color: white;
       margin: 0;
+      font-family: Arial, sans-serif;
     }
 
----
-
-.categories {
+    .categories {
       display: flex;
       overflow: auto;
       white-space: nowrap;
@@ -28,8 +28,6 @@
     .categories button:hover {
       background-color: #ddd;
     }
-
----
 
     main {
       display: grid;

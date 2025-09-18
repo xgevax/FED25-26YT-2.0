@@ -81,17 +81,17 @@ Surface plane
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme_pictures/Group 1.png" width="375px" alt="breakdown van de hele homepagina">
-  <img src="readme_pictures/Group 2.png" width="375px" alt="breakdown van de hele profielpagine">
+  <img src="readme_pictures/Group1.png" width="375px" alt="breakdown van de hele homepagina">
+  <img src="readme_pictures/Group2.png" width="375px" alt="breakdown van de hele profielpagine">
 
   ### dynamisch deel: 
-  <img src="readme_pictures/Group 3.jpg" width="375px" alt="breakdown van een dynamisch deel, navbar homepagina">
+  <img src="readme_pictures/Group3.jpg" width="375px" alt="breakdown van een dynamisch deel, navbar homepagina">
 
   ### dynamisch deel: 
-  <img src="readme_pictures/Group 4.jpg" width="375px" alt="breakdown van nog een dynamisch deel, video">
+  <img src="readme_pictures/Group4.jpg" width="375px" alt="breakdown van nog een dynamisch deel, video">
 
   ### dynamisch deel: 
-  <img src="readme_pictures/Group 5.jpg" width="375px" alt="breakdown van nog een dynamisch deel, geschiedenis horizontale scroll">
+  <img src="readme_pictures/Group5.jpg" width="375px" alt="breakdown van nog een dynamisch deel, geschiedenis horizontale scroll">
 
 </details>
 

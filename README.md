@@ -38,14 +38,21 @@ Surface plane
   ### Je opdracht:
   link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp 
 
-  #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+### Homepagina
 
-  #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
- 
+| GIF | Beschrijving |
+|-----|--------------|
+| ![](homepage_scroll_YT.gif) | Homepagina scroll |
+| ![](explore_hscroll_YT.gif) | Explore – horizontaal scrollen |
+| ![](filter_scroll_YT.gif)   | Filter scrollen |
+
+### Profielpagina
+
+| GIF | Beschrijving |
+|-----|--------------|
+| ![](profilepage_hscroll_playlist_history_YT.gif) | Horizontale scroll van playlists en geschiedenis |
+| ![](makeplaylist_YT.gif)    | Playlist aanmaken |
+
 </details>
 
 
@@ -57,7 +64,12 @@ Surface plane
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-
+  - Sommige lijsten zijn onduidelijk in waar ze heen gaan of wat ze doen.
+  - Knoppen hebben soms geen labels, waardoor de functie niet altijd duidelijk is.
+  - Op de homepagina zit een knop met een kompas-icoon. Ik dacht dat dit liet zien waar je was, maar het is eigenlijk een knop (dit was niet meteen duidelijk).
+  - Er wordt vaak horizontaal scrollen gebruikt. Soms zit er een extra knop bij om dit gemakkelijker te maken, maar niet altijd.
+  - De ruimte tussen lijsten is inconsistent: soms te weinig, soms juist erg groot en onnodig.
+  - YouTube lijkt een uitzondering te hebben waardoor ze video’s automatisch mogen afspelen, ondanks accessibility-wetten.
 </details>
 
 
@@ -68,13 +80,17 @@ Surface plane
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme_pictures/Group 1.png" width="375px" alt="breakdown van de hele homepagina">
+  <img src="readme_pictures/Group 2.png" width="375px" alt="breakdown van de hele profielpagine">
 
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  ### dynamisch deel: 
+  <img src="readme_pictures/Group 3.jpg" width="375px" alt="breakdown van een dynamisch deel, navbar homepagina">
 
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  ### dynamisch deel: 
+  <img src="readme_pictures/Group 4.jpg" width="375px" alt="breakdown van nog een dynamisch deel, video">
+
+  ### dynamisch deel: 
+  <img src="readme_pictures/Group 5.jpg" width="375px" alt="breakdown van nog een dynamisch deel, geschiedenis horizontale scroll">
 
 </details>
 

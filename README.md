@@ -92,7 +92,7 @@ Surface plane
 
   ### dynamisch deel: 
   <img src="readme_pictures/Group5.jpg" width="375px" alt="breakdown van nog een dynamisch deel, geschiedenis horizontale scroll">
-
+//Werkt nog niet??
 </details>
 
 
